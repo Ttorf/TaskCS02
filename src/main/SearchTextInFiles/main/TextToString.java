@@ -1,3 +1,5 @@
+package main;
+
 public class TextToString {
     static public String getTextString() {
 
